@@ -6,6 +6,9 @@ public class Newsamplegitpractice {
 		// TODO Auto-generated method stub
 
 		System.out.println("Commit is successfull");
+		//Changes
+		System.out.println("Commit2 is successfull");
+		
 	}
 
 }
