@@ -7,6 +7,7 @@ public class Pushingthecode {
 		System.out.println("Committed new code");
 		System.out.println("Committed 2nd new code");
 		System.out.println("Committed 4th new code");
+		System.out.println("Committed 4th new code");
 	}
 
 }
